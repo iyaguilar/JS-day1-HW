@@ -40,10 +40,32 @@ console.log(arr);
 //Output arr == ["even index","Baseball","even index","Goku","even index","Rodger"]
 
 //CODEWARS PROBLEMS:
-//1. MY HEAD IS AT THE WRONG END!
-//def fix_the_meerkat(arr):
-//return arr [::-1]
+//1. SUM OF POSITIVE
+//const positiveSum = function(arr) {
+ 
+ //   let sum = 0;
+  
+  
+ //   for (let i = 0; i < arr.length; i++) {
+      
+ //     if (arr[i] > 0) {
+       
+  //      sum += arr[i];
+//      }
+ //   }
+  
+   
+  //  return sum;
+ // };
+  
+ // const numbersArray = [1, -4, 7, 12];
+//  const result = positiveSum(numbersArray);
+//  console.log(result); 
 
-//2. REVERSE SEQUENCE
-//def reverse_seq(n):
- //   return list(range(n, 0, -1))
+//2. MULTIPLY
+//function multiply(a, b){
+   // return a * b
+//}
+//const result = multiply(3, 4);
+//console.log(result); 
+ //   
